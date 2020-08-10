@@ -24,3 +24,8 @@
     background: var(--color-link-default);
     color: var(--color-body-bgrd);
 }
+
+.site-nav a .fas:before {
+    color: #000;
+    margin-right: 0.5em;
+}
