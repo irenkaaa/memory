@@ -34,3 +34,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - docs
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - _assets/
